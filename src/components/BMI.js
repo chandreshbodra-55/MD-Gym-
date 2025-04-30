@@ -36,7 +36,7 @@ export default function BMI() {
                             <h4 className="display-4 text-white fw-bold mb-4">What is BMI?</h4>
                             <strong><p className="m-0 text-white">Body Mass Index (BMI) is a person's weight in kilograms divided by the square of height in meters. A high BMI can indicate high body fatness. BMI screens for weight categories that may lead to health problems, but it does not diagnose the body fatness or health of an individual.</p></strong>
                             <br></br>
-                            <strong><p className="m-0 text-white">If your BMI is in between 18.5 to 24.9, it falls within the Healthy Weight range. If your BMI is 25.0 to 29.9, it falls within the overweight range. If your BMI is 30.0 or higher, it falls within the obese range.</p></strong>
+                            <strong><p className="m-0 text-white">Healthy BMI: 18.5-24.9, Overweight: 25-29.9, Obese: 30.</p></strong>
                         </div>
                     </div>
                     <div className="col-md-6 bg-secondary py-5">
